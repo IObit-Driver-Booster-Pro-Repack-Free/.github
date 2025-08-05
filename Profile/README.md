@@ -1,39 +1,62 @@
-# OpenDriver Updater – Free, Lightweight Windows Driver Updater [Portable + Open Source]
+# IObit Driver Booster Professional (Repack & Portable)
 
-OpenDriver Updater is a free and open-source tool for scanning, downloading, and updating system drivers on Windows. It is built to be fast, portable, and 100% free of ads, tracking, and unnecessary software.
+IObit Driver Booster Professional (Repack & Portable) is a widely used utility designed to search for, download, and update system drivers and essential game components for Windows operating systems.
 
-This tool is ideal for users who want full control over their driver updates without relying on bloated or commercial alternatives.
+The tool scans your system and displays a list of drivers and components that require updates. It utilizes an extensive internal database to ensure compatibility and relevance.
 
----
-
-## Features
-
-- Detects outdated or missing system drivers
-- Downloads and installs official driver updates
-- Backup and restore support for all installed drivers
-- Portable version included — no installation required
-- Clean, lightweight user interface
-- Supports Windows 7, 8, 10, and 11
-- No ads, telemetry, or bundled software
+This repack version offers enhanced ease of use, full functionality without registration, and a clean user interface, while removing unnecessary advertising and adware components.
 
 ---
 
-## Installation
+## Features of the Repacked Version
 
-1. Download the latest release of the tool.
-2. Run the application as administrator.
-3. Optionally, extract the portable version and run it without installation.
+- Combined in one distribution: Install the full version or extract the portable (PAF) version
+- No registration required (patched)
+- Advertisements, telemetry, and adware components have been removed
+- Cleaned of unnecessary background processes and third-party modules
+- Multilingual interface (including Russian)
+- Automatically picks up user configuration file `Config.ini` (if located next to the installer)
 
 ---
 
-## Usage Examples
+## System Requirements
 
-```bash
-# Scan for outdated drivers
-OpenDriverUpdater.exe --scan
+- Supported Operating Systems:
+  - Windows XP
+  - Windows 7
+  - Windows 8 / 8.1
+  - Windows 10
+  - Windows 11
 
-# Backup all current drivers
-OpenDriverUpdater.exe --backup
+---
 
-# Update all drivers silently
-OpenDriverUpdater.exe --update --silent
+## Key Functionalities
+
+- Scans system for outdated or missing drivers
+- Recommends safe updates from a trusted driver database
+- Allows creation of system restore points before driver changes
+- Provides backup of currently installed drivers
+- Intuitive and visually clean user interface
+- Supports both full installation and portable use
+
+---
+
+## Warnings and Disclaimers
+
+- The program suggests updates based on its database. The final decision to install a driver should be made by the user.
+- Always create a **system restore point** or backup your drivers before proceeding with updates.
+- Incorrect driver updates may cause system instability or failure to boot.
+- This repack version disables advertisements and modifies the default setup — use at your own discretion.
+- Some antivirus programs may show **false positive alerts** due to the modifications applied in the repack. These are caused by original bundled advertising elements, not by the repacked version itself.
+
+---
+
+## Previous Versions
+
+Older versions of the repack are also available and may be useful for older systems. These versions retain core features and continue to support backup and restore functions.
+
+---
+
+## Notes
+
+This repack is intended for users seeking a cleaner, portable, and privacy-respecting version of IObit Driver Booster Professional. Please use responsibly and understand the risks of modifying or repacking software.
